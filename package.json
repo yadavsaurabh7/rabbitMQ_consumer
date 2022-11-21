@@ -1,0 +1,29 @@
+{
+  "name": "meditation.live_rmq_consumer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "apn": "^2.2.0",
+    "app-root-path": "^2.1.0",
+    "csv-writer": "^1.2.0",
+    "dates-between": "^1.1.0",
+    "firebase-admin": "^7.0.0",
+    "http": "0.0.0",
+    "ical-generator": "^1.6.0",
+    "moment-timezone": "^0.5.23",
+    "mongoose": "^5.4.15",
+    "morgan": "^1.9.1",
+    "nodemailer": "^5.1.1",
+    "querystring": "^0.2.0",
+    "util": "^0.11.1",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^3.8.0"
+  }
+}

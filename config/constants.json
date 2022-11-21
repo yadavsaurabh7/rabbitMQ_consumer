@@ -1,0 +1,17 @@
+{
+    "AUTH": "auth",
+    "Enterprise_Account_Configuration": "Enterprise Account Configuration",
+    "Schedule of Exclusive Classes For Enterprise": "",
+    "License Expiry ": "",
+    "Weekly Check-in ": "",
+    "Public Classes Schedules": "",
+    "Check for Updates": "",
+    "Check for Cancellation": "",
+    "FIREBASE_DB_URL": "https://meditation-test-66b71.firebaseio.com",
+    "emailQueue" : "emailQueue",
+    "bulkEmailQueue" : "bulkEmailQueue",
+    "pushNotificationQueue" : "pushNotificationQueue",
+    "bulkPushNotificationQueue" : "bulkPushNotificationQueue",
+    "SECRET" : "hjasdoio9aldskknoli"
+
+}
